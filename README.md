@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm mlack</h1>
 <h3 align="center">a Passionate Full Stack Developer</h3>
 
-- 🔭 I’m Turning Ideas **Into Code**
+- 🔭 I’m Turning Ideas Into Code
 
-- Always learning and exploring **new technologies**
+- Always Learning And Exploring New Technologies
 
-- 🤝 Open source **enthusiast**
+- 🤝 Open Source Enthusiast
 
-- 👨‍💻 All of my projects are available at [https://mlack.vercel.app/](https://mlack.vercel.app/)
+- 👨‍💻 All Of My Projects Are Available At [https://mlack.vercel.app/](https://mlack.vercel.app/)
 
-- 📫 How to reach me **immlack@gmail.com**
+- 📫 How To Reach Me **immlack@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
