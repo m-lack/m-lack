@@ -3,7 +3,7 @@
 
 - 🔭 I’m Turning Ideas Into Code
 
-- Always Learning And Exploring New Technologies
+- 🚀 Always Learning And Exploring New Technologies
 
 - 🤝 Open Source Enthusiast
 
