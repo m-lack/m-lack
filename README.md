@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm mlack</h1>
-<h3 align="center">a Full Stack JS Developer</h3>
+<h3 align="center">a Passionate Full Stack Developer</h3>
+
+- 🔭 I’m Turning Ideas **Into Code**
+
+- Always learning and exploring **new technologies**
+
+- 🤝 Open source **enthusiast**
 
 - 👨‍💻 All of my projects are available at [https://mlack.vercel.app/](https://mlack.vercel.app/)
 
@@ -7,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohieeddinlakhdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohieeddinlakhdar" height="30" width="40" /></a>
 <a href="https://twitter.com/mohielakhdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohielakhdar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohieeddinlakhdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohieeddinlakhdar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
