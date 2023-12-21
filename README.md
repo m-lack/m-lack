@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohieeddinlakhdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohieeddinlakhdar" height="30" width="40" /></a>
-  <a href="https://twitter.com/mohielakhdar" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="mohielakhdar" height="30" width="40" /></a>
+  <a href="https://twitter.com/mohielakhdar" target="blank"><img align="center" src="https://ww2.freelogovectors.net/wp-content/uploads/2023/07/twitter-x-logo-freelogovectors.net_.png" alt="mohielakhdar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
